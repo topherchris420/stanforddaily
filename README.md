@@ -2,7 +2,7 @@
 
 # The Stanford Daily
 
-This is the Stanford Daily website & mobile app! Visit our web3 Humor site at https://ipfs.io/ipfs/QmQzPPwkBUa8efuPnAotLGaTucPwJLAZsEwKGzd4HmUU4U and our web2 website at https://y.at/😎🌲🗞️💡. Feel free to download our app at https://app.stanforddaily.com/. Contributions welcome! wagmi
+This is the Stanford Daily website & mobile app! Visit our web3 Humor site at https://ipfs.io/ipfs/QmQzPPwkBUa8efuPnAotLGaTucPwJLAZsEwKGzd4HmUU4U and our web2 website at https://y.at/😎🌲🗞️💡. Feel free to download our app at https://app.stanforddaily.com/. Contributions welcome! 
 
 ## Setup
 
