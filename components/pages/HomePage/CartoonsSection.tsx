@@ -26,7 +26,7 @@ export const CartoonsSection: React.ElementType = ({
             source={{
               uri: "/static/sectionHeaders/cartoons.png",
             }}
-            accessibilityLabel="Cartoons"
+            accessibilityLabel="69"
             resizeMode="contain"
             style={{
               width: 180,
