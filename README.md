@@ -1,8 +1,8 @@
-[![The Stanford Daily logo](https://github.com/TheStanfordDaily/stanforddaily-graphic-assets/raw/master/DailyLogo/DailyLogo.png)](https://www.stanforddaily.com/)
+[![The Stanford Daily logo](https://github.com/TheStanfordDaily/stanforddaily-graphic-assets/raw/master/DailyLogo/DailyLogo.png)](https://y.at/cool-face.pine-tree.newspaper.light-bulb)
 
 # The Stanford Daily
 
-This is the Stanford Daily website & mobile app! Visit the site at https://www.stanforddaily.com/ and download the app at https://app.stanforddaily.com/. Contributions welcome!
+This is the Stanford Daily website & mobile app! Visit the site at https://y.at/cool-face.pine-tree.newspaper.light-bulb and download the app at https://app.stanforddaily.com/. Contributions welcome!
 
 ## Setup
 
