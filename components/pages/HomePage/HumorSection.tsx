@@ -22,7 +22,7 @@ export const HumorSection: React.ElementType<SectionProps> = ({
           source={{
             uri: "/static/soc-no-background.png",
           }}
-          accessibilityLabel="Humor"
+          accessibilityLabel="420"
           resizeMode="contain"
           style={{
             height: 75,
