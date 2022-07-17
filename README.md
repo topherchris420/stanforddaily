@@ -2,7 +2,7 @@
 
 # The Stanford Daily
 
-This is the Stanford Daily website & mobile app! Visit the site at https://y.at/cool-face.pine-tree.newspaper.light-bulb and download the app at https://app.stanforddaily.com/. Contributions welcome!
+This is the Stanford Daily website & mobile app! Visit our web3 Humor site at https://ipfs.io/ipfs/QmQzPPwkBUa8efuPnAotLGaTucPwJLAZsEwKGzd4HmUU4U and download our app at https://app.stanforddaily.com/. Contributions welcome! wagmi
 
 ## Setup
 
